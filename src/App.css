@@ -1,0 +1,35 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+tr,
+td {
+  border: 1px solid white;
+  text-align: left;
+  font-size: 32px;
+  padding: 8px;
+}
+th {
+  background-color: aqua;
+}
+td {
+  background-color: bisque;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+form td :last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+form * {
+  font-size: 28px;
+}

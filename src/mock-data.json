@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name": "crud-table-app",
+    "adress": "kate chowk app",
+    "email": "jhdd@gmail.com",
+    "phone": 78474022
+  },
+  {
+    "id" : 2,
+    "name": "crud-table-app",
+    "adress": "rahata chowk app",
+    "email": "jhdd@gmail.com",
+    "phone": 784740224
+  },
+  {
+    "id" : 3,
+    "name": "crud-table-app",
+    "adress": "jagata chowk app",
+    "email": "jhdd@gmail.com",
+    "phone": 7847402256
+  },
+  {
+    "id" : 4,
+    "name": "crud-table-app",
+    "adress": "mata chowk app",
+    "email": "jhdd@gmail.com",
+    "phone": 78474022565
+  }
+]
